@@ -1,4 +1,4 @@
 #include <iostream>
 int main (){
-std::count <<"Hola";
+std::count <<"Hola_mundo";
 }
